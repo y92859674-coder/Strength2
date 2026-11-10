@@ -1,0 +1,7 @@
+name: strength 
+version: 1.0
+main: com.example.myplugin.Main
+api-version: '1.21'
+commands:
+  hello:
+    description: Say hello
